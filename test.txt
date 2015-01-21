@@ -1,0 +1,2 @@
+Plik testowy!
+Repo działa poprawnie ;)
